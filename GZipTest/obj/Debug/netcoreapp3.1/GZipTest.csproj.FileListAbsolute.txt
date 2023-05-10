@@ -1,0 +1,14 @@
+D:\books\sobesy\veeam\GZipTest\bin\Debug\netcoreapp3.1\GZipTest.exe
+D:\books\sobesy\veeam\GZipTest\bin\Debug\netcoreapp3.1\GZipTest.deps.json
+D:\books\sobesy\veeam\GZipTest\bin\Debug\netcoreapp3.1\GZipTest.runtimeconfig.json
+D:\books\sobesy\veeam\GZipTest\bin\Debug\netcoreapp3.1\GZipTest.runtimeconfig.dev.json
+D:\books\sobesy\veeam\GZipTest\bin\Debug\netcoreapp3.1\GZipTest.dll
+D:\books\sobesy\veeam\GZipTest\bin\Debug\netcoreapp3.1\GZipTest.pdb
+D:\books\sobesy\veeam\GZipTest\obj\Debug\netcoreapp3.1\GZipTest.AssemblyInfoInputs.cache
+D:\books\sobesy\veeam\GZipTest\obj\Debug\netcoreapp3.1\GZipTest.AssemblyInfo.cs
+D:\books\sobesy\veeam\GZipTest\obj\Debug\netcoreapp3.1\GZipTest.dll
+D:\books\sobesy\veeam\GZipTest\obj\Debug\netcoreapp3.1\GZipTest.pdb
+D:\books\sobesy\veeam\GZipTest\obj\Debug\netcoreapp3.1\GZipTest.csproj.AssemblyReference.cache
+D:\books\sobesy\veeam\GZipTest\obj\Debug\netcoreapp3.1\GZipTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\books\sobesy\veeam\GZipTest\obj\Debug\netcoreapp3.1\GZipTest.csproj.CoreCompileInputs.cache
+D:\books\sobesy\veeam\GZipTest\obj\Debug\netcoreapp3.1\GZipTest.genruntimeconfig.cache
